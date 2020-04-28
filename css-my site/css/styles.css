@@ -1,0 +1,167 @@
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Comic Neue', cursive;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Comic Neue', cursive;
+}
+
+.top-nav {
+  background-color: #323232;
+  overflow: hidden;
+  margin: 0;
+  height: 3.125rem;
+}
+
+.top-nav a {
+  font-family: 'Comic Neue', cursive;
+  font-size: 1.25rem;
+  display: block;
+  color: white;
+  align-self: center;
+  text-decoration: none;
+  float: right;
+  padding: 15px 20px;
+  margin: 0;
+}
+
+.logo-head {
+  position: relative;
+  margin: 0;
+  background-color: #e1f4f3;
+  align-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+.logo {
+  display: inline-block;
+  margin: 0;
+}
+
+.vertical-line {
+  border: solid;
+  border-width: 0.125rem;
+  height: 18.75rem;
+  width: 0;
+  position: absolute;
+  left: 15%;
+  top: 5%;
+}
+
+.vertical-line-1 {
+  border: solid;
+  border-width: 0.125rem;
+  height: 18.75rem;
+  width: 0;
+  position: absolute;
+  right: 15%;
+  bottom: 5%;
+}
+
+.face-logo {
+  display: inline-block;
+  height: 18.75rem;
+  width: auto;
+  align-self: center;
+  margin: 0;
+}
+
+.logo {
+  display: inline-block;
+  width: 37.5rem;
+  height: auto;
+}
+
+.about-me {
+  letter-spacing: 2px;
+  margin: 0;
+}
+
+.about-head {
+  color: #758284;
+  font-size: 25px;
+}
+
+.about-me p {
+  margin: 0;
+  color: grey;
+  font-size: 20px;
+}
+
+.skills-container {
+  background-color: #f2f2f2;
+  text-align: center;
+  margin: 0;
+  position: relative;
+}
+
+.skill-head {
+  align-items: center;
+}
+.skill-head table{
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+.skill-content
+{
+  position: relative;
+}
+.skills-heading {
+  display: inline-block;
+  font-size: 5.2rem;
+  font-family: Cookie;
+  margin: 0;
+}
+
+.code-logo {
+  display: inline-block;
+  height: 9.375rem;
+  width: 9.375rem;
+  margin: 0;
+}
+.achieved-skill-table{
+  font-size: 20px;
+  padding: 10px;
+  color: #142850;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 30px;
+  font-weight: bolder;
+}
+.achieved-skill-table tr td{
+  padding: 18px;
+}
+.skill-computer{
+  display: inline-block;
+}
+
+.contact-container{
+  background-color: #323232;
+  height: 50px;
+  margin: 0;
+  position: relative;
+}
+
+.contact-container a{
+  padding: 20px;
+  margin: 0;
+  align-items: center;
+}
+
+.social-logo{
+  align-self: center;
+  padding-top: 10px;
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+}
